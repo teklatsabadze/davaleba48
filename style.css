@@ -1,0 +1,14 @@
+.box{
+    width: 320px;
+    height: 138px;
+    border: 1px solid grey;
+    margin-top: 73px;
+    margin-left: 109px;
+}
+.text1{
+    font-size: 14px;
+}
+.text2{
+    font-size: 14px;
+    color: gray;
+}
